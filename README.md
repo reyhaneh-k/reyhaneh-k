@@ -1,9 +1,6 @@
 👨‍💻 Junior Frontend Developer | 🎓 Rahnema College Bootcamp Graduate
 
 🚀 Passionate about creating responsive and user-friendly web applications
-🛠️ Skills: HTML, CSS, JavaScript, React
-🌱 Currently learning: [e.g., TypeScript, Next.js]
-🔍 Seeking opportunities to contribute to open-source projects
 📚 Always eager to learn and grow in the ever-evolving world of web development
 
 💼 Open to collaboration and exciting frontend opportunities!
