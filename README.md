@@ -1,5 +1,5 @@
 [![MasterHead]([your image link](https://www.canva.com/design/DAGQ7-4Dnqg/LUW6gIIyHdt6XsQpCHtgqg/view?utm_content=DAGQ7-4Dnqg&utm_campaign=designshare&utm_medium=link&utm_source=editor
-))](your GitHub link)
+))]([your GitHub link](https://github.com/reyhaneh-k))
 
 👨‍💻 Junior Frontend Developer | 🎓 Rahnema College Bootcamp Graduate
 
