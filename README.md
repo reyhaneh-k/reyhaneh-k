@@ -1,4 +1,5 @@
-[![MasterHead](https://liyasthomas.github.io/banner/)](your GitHub link)
+[![MasterHead]([your image link](https://www.canva.com/design/DAGQ7-4Dnqg/LUW6gIIyHdt6XsQpCHtgqg/view?utm_content=DAGQ7-4Dnqg&utm_campaign=designshare&utm_medium=link&utm_source=editor
+))](your GitHub link)
 
 👨‍💻 Junior Frontend Developer | 🎓 Rahnema College Bootcamp Graduate
 
@@ -6,7 +7,6 @@
 📚 Always eager to learn and grow in the ever-evolving world of web development
 
 💼 Open to collaboration and exciting frontend opportunities!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhaneh-k) 
