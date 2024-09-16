@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAGQ7-4Dnqg/LUW6gIIyHdt6XsQpCHtgqg/view?utm_content=DAGQ7-4Dnqg&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://github.com/reyhaneh-k)
+[![MasterHead](https://github.com/reyhaneh-k/reyhaneh-k/blob/main/Reyhaneh-github.png)](https://github.com/reyhaneh-k)
 
 <h2 align="left">👨‍💻 Junior Frontend Developer | 🎓 Rahnema College Bootcamp Graduate</h2>
 
