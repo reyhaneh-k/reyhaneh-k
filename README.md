@@ -1,33 +1,75 @@
+# Reyhaneh Khoshghadam
+
+<!-- Add your masthead image here -->
 [![MasterHead](https://github.com/reyhaneh-k/reyhaneh-k/blob/main/Reyhaneh-github.png)](https://github.com/reyhaneh-k)
 
-<h2 align="left">👨‍💻 Junior Frontend Developer | 🎓 Rahnema College Bootcamp Graduate</h2>
+## 👩‍💻 Frontend Developer | React.js | TypeScript | Tanstack | Tailwind
 
-🚀 Passionate about creating responsive and user-friendly web applications
-📚 Always eager to learn and grow in the ever-evolving world of web development
+[![Profile Views](https://komarev.com/ghpvc/?username=reyhaneh-k&color=blueviolet)](https://github.com/reyhaneh-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/reyhaneh-k/)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:reyhanehkhoshghadam@gmail.com)
 
-💼 Open to collaboration and exciting frontend opportunities!
+### 👋 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reyhaneh-k) 
+Passionate Frontend Developer with a strong foundation in modern web technologies. My journey in web development began with self-directed learning, culminating in an intensive bootcamp at Rahnema College. I thrive in dynamic environments where I can contribute to impactful projects and continue growing as a developer.
 
-# 💻 Tech Stack:
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-# 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=reyhaneh-k&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyhaneh-k&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhaneh-k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=reyhaneh-k&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+### 💼 Professional Experience
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Frontend Developer** | Rahnema College | Jun 2024 - Sep 2024
+- Developed frontend applications in a hybrid work environment
+- Implemented responsive designs using Tailwind
+- Enhanced user experience with React, React Query, and React Router Dom
+- Managed version control and code collaboration using Git, Hamgit, and GitLab
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=reyhaneh-k&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🌟 Key Project
+
+**Gramverse (originally Collegegram)**
+- Developed a full-fledged social media application
+- Showcased ability to build complex, interactive web platforms
+
+### 🎓 Certifications
+
+- JavaScript Essential Training
+- Introduction to Front-End Development
+- CSS Essential Training
+- Web Programming Foundations
+- Search Techniques for Web Developers
+- Explore a Career in Front-End Development
+- TypeScript
+- JavaScript Asynchronous Programming
+- AJAX and Fetch API
+- RESTful APIs
+
+### 🏆 Achievements
+
+- TOEFL Score: 111
+
+### 🎓 Education
+
+- **Bachelor of Science in Biomedical/Medical Engineering**
+  Amirkabir University of Technology - Tehran Polytechnic (2015 - 2021)
+
+- **High School Diploma, Mathematics & Physics**
+  National Organization for Development of Exceptional Talents (Sampad) (2008 - 2015)
+
+- **Certificate of Completion in English Language Studies**
+  Iran Language Institute (2008 - 2014)
 
 ---
+
+⭐️ From [reyhaneh-k](https://github.com/reyhaneh-k)
 
