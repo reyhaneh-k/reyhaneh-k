@@ -43,16 +43,13 @@ Passionate Frontend Developer with a strong foundation in modern web technologie
 
 ### 🎓 Certifications
 
-- JavaScript Essential Training
-- Introduction to Front-End Development
-- CSS Essential Training
-- Web Programming Foundations
-- Search Techniques for Web Developers
-- Explore a Career in Front-End Development
-- TypeScript
-- JavaScript Asynchronous Programming
-- AJAX and Fetch API
-- RESTful APIs
+- Introduction to Front-End Development Coursera
+- Explore a Career in Front-End Development Linkedin
+- TypeScript Linkedin
+- JavaScript Asynchronous Programming Linkedin
+- AJAX and Fetch API Linkedin
+- RESTful APIs Linkedin
+- ...
 
 ### 🏆 Achievements
 
