@@ -3,7 +3,7 @@
 <!-- Add your masthead image here -->
 [![MasterHead](https://github.com/reyhaneh-k/reyhaneh-k/blob/main/Reyhaneh-github.png)](https://github.com/reyhaneh-k)
 
-## 👩‍💻 Frontend Developer | React.js | TypeScript | Tanstack | Tailwind
+## 👩‍💻 Frontend Developer | React.js | Next.js | TypeScript | Tanstack | Tailwind
 
 [![Profile Views](https://komarev.com/ghpvc/?username=reyhaneh-k&color=blueviolet)](https://github.com/reyhaneh-k)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/reyhaneh-k/)
